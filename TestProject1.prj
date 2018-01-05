@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>First test project created.</description>
+   <name>TestProject1</name>
+   <tag></tag>
+   <UUID>c3616ed9-4957-4c75-8f10-67d632cea50d</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
